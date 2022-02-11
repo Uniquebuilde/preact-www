@@ -74,6 +74,11 @@ const companies = [
 		logo: 'bustle.svg'
 	},
 	{
+		name: 'Unique Builders',
+		href: 'https://www.uniquegroup.in/',
+		logo: 'uniquebuilders.png'
+	},
+	{
 		name: 'Financial Times',
 		href: 'https://ft.com/',
 		logo: 'financial-times.svg'
